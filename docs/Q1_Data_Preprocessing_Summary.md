@@ -46,4 +46,5 @@ Utilizando la **Tabla Dinámica 2** (indicadores como columnas), se calculó la 
 
 Para revisar el código de Python utilizado para la descarga (API del Banco Mundial), la eliminación específica de columnas, las estructuras de las tablas dinámicas y las matrices de correlación completas con sus visualizaciones, por favor, acceda al Notebook principal:
 
-*[Ver la Sección 1: Comprehensive Data Acquisition and Preprocessing en el Notebook completo](https://colab.research.google.com/drive/1PvvgftZqU8oRfxvQzB_P8Osi0-a4goSz?usp=sharing)*
+*[Ver la Sección 1: Comprehensive Data Acquisition and Preprocessing en el Notebook completo](https://colab.research.google.com/drive/1PvvgftZqU8oRfxvQzB_P8Osi0-a4goSz#scrollTo=2UY9w71AH8TK)*
+

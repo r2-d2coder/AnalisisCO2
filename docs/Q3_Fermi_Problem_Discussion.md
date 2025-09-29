@@ -76,5 +76,7 @@ El análisis futuro debe centrarse en:
 
 Para revisar el código de la simulación del escenario de VE, la manipulación de las variables de Petróleo/Gas y la lista completa de la reducción predicha por país, por favor, acceda al Notebook principal:
 
-**[Ver la Sección 3: Fermi Problem and Sensitivity Analysis en el Notebook completo](https://colab.research.google.com/drive/1PvvgftZqU8oRfxvQzB_P8Osi0-a4goSz?usp=sharing)*
+**[Ver la Sección 3: Fermi Problem and Sensitivity Analysis en el Notebook completo](https://colab.research.google.com/drive/1PvvgftZqU8oRfxvQzB_P8Osi0-a4goSz#scrollTo=7962b107)*
+
+
 

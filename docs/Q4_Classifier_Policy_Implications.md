@@ -87,6 +87,6 @@ Basándose en los coeficientes y las características comunes de los países cla
 
 Para revisar el código de la definición de la variable $y_{\text{class}}$, la expansión de características, el entrenamiento del modelo, el *Classification Report* completo y la tabla de coeficientes, por favor, acceda al Notebook principal:
 
-**[Ver la Sección 4: Classification and Policy Implications en el Notebook completo](https://colab.research.google.com/drive/1PvvgftZqU8oRfxvQzB_P8Osi0-a4goSz?usp=sharing)*
+**[Ver la Sección 4: Classification and Policy Implications en el Notebook completo](https://colab.research.google.com/drive/1PvvgftZqU8oRfxvQzB_P8Osi0-a4goSz#scrollTo=969da371)*
 
 

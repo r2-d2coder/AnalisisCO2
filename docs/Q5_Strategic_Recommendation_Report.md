@@ -63,4 +63,5 @@ Una inversión estratégica en estas cuatro áreas, priorizando la **sustitució
 
 Para revisar el código de la simulación del escenario de inversión en Alemania, la aplicación del modelo predictivo y del clasificador en los datos simulados, por favor, acceda al Notebook principal:
 
-**[Ver la Sección 5: Strategic Analysis and Model Application en el Notebook completo]**([ENLACE_COLAB_Q5])
+**[Ver la Sección 5: Strategic Analysis and Model Application en el Notebook completo](https://colab.research.google.com/drive/1PvvgftZqU8oRfxvQzB_P8Osi0-a4goSz?usp=sharing)
+

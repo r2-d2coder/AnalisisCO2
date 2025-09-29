@@ -16,7 +16,8 @@ Toda la lógica de código, preprocesamiento y análisis se encuentra centraliza
 Solo accedan al enlace del *Notebook de Google Colab* y ejecuten el código. (En caso de pedir permisos den en *Aceptar*, de lo contrario no podrán correr el código).
 
 ### 🔗 Enlace al Notebook de Colab
-*[Ver el Notebook Completo aquí (Contiene Código y Explicaciones)]([Aquí va el enlace a tu Google Colab Notebook])*
+*[Ver el Notebook Completo aquí (Contiene Código y Explicaciones)]([https://colab.research.google.com/drive/1PvvgftZqU8oRfxvQzB_P8Osi0-a4goSz?usp=sharing])*
+
 
 ### 📝 Documentación por Pregunta
 A continuación, se encuentran los *archivos Markdown individuales* solicitados para cada pregunta, los cuales contienen un resumen ejecutivo y un enlace a la sección específica dentro del Notebook para el análisis completo.

@@ -68,5 +68,6 @@ Para revisar la selección de variables, la división de los datos, el código d
 
 
 
-**[Ver la Sección 2: Predictive Modeling and Scenario Analysis en el Notebook completo](https://colab.research.google.com/drive/1PvvgftZqU8oRfxvQzB_P8Osi0-a4goSz?usp=sharing)*
+**[Ver la Sección 2: Predictive Modeling and Scenario Analysis en el Notebook completo](https://colab.research.google.com/drive/1PvvgftZqU8oRfxvQzB_P8Osi0-a4goSz#scrollTo=CSY0sGUz6nhU)*
+
 

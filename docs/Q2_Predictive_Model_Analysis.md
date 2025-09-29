@@ -50,4 +50,5 @@ El modelo de **Regresión Lineal** fue utilizado para determinar el impacto de u
 
 Para revisar la selección de variables, la división de los datos, el código de entrenamiento de los tres modelos, las métricas completas y la simulación del escenario de impacto del PIB, por favor, acceda al Notebook principal:
 
-**[Ver la Sección 2: Predictive Modeling and Scenario Analysis en el Notebook completo]**([ENLACE_COLAB_P2])
+**[Ver la Sección 2: Predictive Modeling and Scenario Analysis en el Notebook completo](https://colab.research.google.com/drive/1PvvgftZqU8oRfxvQzB_P8Osi0-a4goSz?usp=sharing)*
+

@@ -29,4 +29,4 @@ A continuación, se encuentran los *archivos Markdown individuales* solicitados 
 | *Q3* | Problema Fermi y Análisis de Sensibilidad | [Q3 Fermi_Problem_Discussion](docs/Q3_Fermi_Problem_Discussion.md) |
 | *Q4* | Clasificación e Implicaciones Políticas | [Q4 Classifier_Policy_Implications](docs/Q4_Classifier_Policy_Implications.md) |
 | *Q5* | Análisis Estratégico y Priorización de Inversiones | [Q5 Strategic_Recommendation_Report](docs/Q5_Strategic_Recommendation_Report.md) |
-2. En la carpeta del Drive con nombre *Colab Notebooks*, cargue el arhivo de datos (OWID_CB.csv) que en pasos anteriores descargó a su computadora.
+

@@ -38,22 +38,12 @@ Aunque el **Random Forest Regressor** mostró el menor Error Absoluto Medio ($MA
 
 ## 🔮 Análisis de Escenario: Impacto del 10% de Aumento del PIB
 
-El modelo de Regresión Lineal fue interpretado mediante sus **coeficientes**, los cuales indican la magnitud y dirección de la relación lineal entre cada variable y las emisiones de $\text{CO}_2$, manteniendo otras variables constantes.
-
-### Simulación y Conclusión
-Se simuló un escenario donde el PIB (`OWID_CB_GDP`) aumenta en un 10% para **todas las entradas** en el *dataset* de prueba, manteniendo los demás factores constantes.
-
-**Conclusión del Escenario:**
-El modelo predijo una **disminución promedio y total en las emisiones de $\text{CO}_2$** como resultado del incremento del 10% en el PIB. Este resultado, si bien requiere una validación causal más profunda, indica que, bajo las condiciones de esta simulación lineal:
-
-* El **efecto marginal negativo** de otras variables (como la eficiencia energética o los cambios en la matriz económica, cuyos coeficientes en el modelo son negativos) es lo suficientemente fuerte como para **compensar** el impulso positivo en las emisiones que históricamente se asocia con el crecimiento del PIB.
-* El modelo sugiere que las relaciones subyacentes capturadas por el *dataset* indican un **desacoplamiento** incipiente entre el crecimiento económico y las emisiones de $\text{CO}_2$.
-
----
+El modelo de Regresión Lineal fue interpretado mediante sus **coeficientes**, los cuales indican la magnitud y dirección de la relación lineal entre cada variable y las emisiones de $\text{CO}_2$, manteniendo otras variables constantes. ### Simulación y Conclusión Se simuló un escenario donde el PIB (`OWID_CB_GDP`) aumenta en un 10% para todas las entradas en el *dataset*, manteniendo los demás factores constantes. | Métrica | Cambio Predicho (Linear Regression) | | :--- | :--- | | **Cambio Promedio Predicho en Emisiones** | **-0.0094** | | **Cambio Total Predicho en Emisiones** | **-379.3227** | **Conclusión del Escenario:** La simulación predijo una **disminución promedio y total en las emisiones de $\text{CO}_2$** como resultado del incremento del 10% en el PIB. Los resultados cuantitativos son: * El **cambio promedio predicho** en las emisiones de $\text{CO}_2$ es de **-0.0094** por registro. * El **cambio total predicho** acumulado a través de todos los datos combinados es de **-379.3227**. Este hallazgo es crucial, ya que el modelo sugiere que: * El **efecto neto** de un aumento en el PIB, bajo el supuesto de que el resto de las variables (como la composición energética o la eficiencia) se mantienen en sus niveles actuales, resulta en un **desacoplamiento** incipiente. * Esto implica que, en el contexto de las relaciones lineales capturadas por el modelo, el crecimiento económico ya no está puramente ligado al aumento de las emisiones. ---
 
 ## 🔗 Ver Código y Resultados Detallados
 
 Para revisar la selección de variables, la división de los datos, el código de entrenamiento de los tres modelos, las métricas completas y la simulación del escenario de impacto del PIB, por favor, acceda al Notebook principal:
+
 
 
 **[Ver la Sección 2: Predictive Modeling and Scenario Analysis en el Notebook completo](https://colab.research.google.com/drive/1PvvgftZqU8oRfxvQzB_P8Osi0-a4goSz?usp=sharing)*
